@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Why You'd Want to Collaborate with Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Samuele Torregrossa. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- **Algorithm Designer**: Crafting efficient and scalable algorithms to solve complex problems.
+- **Passionate About Data Science**: Leveraging data to drive informed decision-making.
+- **Strong Problem Solver**: Tackling challenges with innovative solutions.
+- **Team-Oriented**: Valuing collaboration and effective communication within teams.
 
 What else do you need?
 
-### My story
+### My Story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+From my early days as at CERN to my current role as an Algorithm Engineer at WhiteSpace Solutions, I've dedicated myself to mastering problem solving. My journey has been fueled by a love for tackling complex challenges and a commitment to continuous learning. When I'm not immersed in code, I enjoy collaborating with teams to build innovative solutions that make a real impact.
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/samueletorregrossa/) or check out my [GitHub](https://github.com/SamueleTorregrossa) to see some of the projects I'm passionate about.
