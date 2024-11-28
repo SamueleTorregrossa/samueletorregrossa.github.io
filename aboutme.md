@@ -9,8 +9,6 @@ subtitle: Why You'd Want to Collaborate with Me
 - 🛠️ **Strong Problem Solver**: Tackling challenges with innovative solutions.
 - 🤝 **Team-Oriented**: Valuing collaboration and effective communication within teams.
 
-What else do you need?
-
 ### My Story
 
 From my early days as at CERN to my current role as an Algorithm Engineer at WhiteSpace Solutions, I've dedicated myself to mastering problem solving. My journey has been fueled by a love for tackling complex challenges and a commitment to continuous learning. When I'm not immersed in code, I enjoy collaborating with teams to build innovative solutions that make a real impact.
