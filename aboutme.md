@@ -6,7 +6,7 @@ subtitle: Why You'd Want to Collaborate with Me
 
 My name is Samuele Torregrossa. I have the following qualities:
 
-- 🧠 **Algorithm Design Expert**: Crafting efficient and scalable algorithms to solve complex problems.
+- 🧠 **Algorithm Designer**: Crafting efficient and scalable algorithms to solve complex problems.
 - 📊 **Passionate About Data Science**: Leveraging data to drive informed decision-making.
 - 🛠️ **Strong Problem Solver**: Tackling challenges with innovative solutions.
 - 🤝 **Team-Oriented**: Valuing collaboration and effective communication within teams.
@@ -62,9 +62,6 @@ button:hover {
         if (!email || !message) {
             alert("Please fill out all fields.");
             event.preventDefault();
-        } else {
-            event.preventDefault();
-            document.getElementById("thank-you").style.display = "block";
         }
     });
 </script>
@@ -89,5 +86,4 @@ button:hover {
     </label>
     <button type="submit">Send</button>
     </form>
-    <div id="thank-you" style="display:none;">Thank you!</div>
 </section>
