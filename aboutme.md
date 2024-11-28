@@ -15,9 +15,9 @@ What else do you need?
 
 ### My Story
 
-From my early days as a Test Technician at Desolenator to my current role as an Algorithm Engineer at WhiteSpace Solutions, I've dedicated myself to mastering the intricacies of data-driven decision making and machine learning. My journey has been fueled by a love for tackling complex challenges and a commitment to continuous learning. When I'm not immersed in code, I enjoy collaborating with teams to build innovative solutions that make a real impact.
+From my early days as at CERN to my current role as an Algorithm Engineer at WhiteSpace Solutions, I've dedicated myself to mastering problem solving. My journey has been fueled by a love for tackling complex challenges and a commitment to continuous learning. When I'm not immersed in code, I enjoy collaborating with teams to build innovative solutions that make a real impact.
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/samuele-torregrossa/) or check out my [GitHub](https://github.com/SamueleTorregrossa) to see some of the projects I'm passionate about.
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/samueletorregrossa/) or check out my [GitHub](https://github.com/SamueleTorregrossa) to see some of the projects I'm passionate about.
 
 <style>
 #contact {
