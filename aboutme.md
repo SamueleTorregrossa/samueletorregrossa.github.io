@@ -19,6 +19,42 @@ From my early days as a Test Technician at Desolenator to my current role as an 
 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/samuele-torregrossa/) or check out my [GitHub](https://github.com/SamueleTorregrossa) to see some of the projects I'm passionate about.
 
+<style>
+#contact {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+#contact h2 {
+    text-align: center;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+input, textarea {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.7rem 1.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+}
+button:hover {
+    background-color: #0056b3;
+}
+</style>
+
+
 <script>
     document.querySelector("form").addEventListener("submit", function (event) {
         const email = document.getElementById("email").value;
@@ -26,19 +62,22 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/samuele-torre
         if (!email || !message) {
             alert("Please fill out all fields.");
             event.preventDefault();
+        } else {
+            event.preventDefault();
+            document.getElementById("thank-you").style.display = "block";
         }
     });
 </script>
 
 <section id="contact">
-    <h2>Contact</h2>
+    <h2>Contact Me</h2>
     <form
     action="https://formspree.io/f/xgvenbyb"
     method="POST"
     >
     <label>
         Your email:
-        <input type="email" name="email">
+        <input type="email" name="email" id="email">
     </label>
     <label>
         Your name:
@@ -46,8 +85,9 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/samuele-torre
     </label>
     <label>
         Your message:
-        <textarea name="message"></textarea>
+        <textarea name="message" id="message"></textarea>
     </label>
     <button type="submit">Send</button>
     </form>
+    <div id="thank-you" style="display:none;">Thank you!</div>
 </section>
