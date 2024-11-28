@@ -4,7 +4,8 @@ title: About Me
 subtitle: Why You'd Want to Collaborate with Me
 ---
 
-My name is Samuele Torregrossa. I have the following qualities:
+My name is Samuele Torregrossa.
+Here's why you should consider collaborating with me:
 
 - 🧠 **Algorithm Designer**: Crafting efficient and scalable algorithms to solve complex problems.
 - 📊 **Passionate About Data Science**: Leveraging data to drive informed decision-making.
